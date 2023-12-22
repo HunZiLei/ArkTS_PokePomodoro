@@ -9,6 +9,7 @@ DevEco Studio，使用ArkTs实现学习清单、（没有番茄的）番茄钟�
 ## 未实现功能
 -答题的逻辑<br />
 -随机题目<br />
+-钟表动画<br />
 -一些bug
 ## 展示
 <p align = "center">
