@@ -1,0 +1,54 @@
+{
+  "app": {
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\26387\\.ohos\\config\\auto_debug_PokePomodoro_top.handwer.homeworktasklist_30086000593547374.cer",
+          "storePassword": "000000199647B5653E79CAD229F8F5609AA874A3835BD1640F0B25E7072341C9E107C2B9B18589F646",
+          "keyAlias": "debugKey",
+          "keyPassword": "00000019218B245B6C56DF81F6A65D384A6F1683E4D4A72D79BF6446088B29F85A5B9EF67A61198B68",
+          "profile": "C:\\Users\\26387\\.ohos\\config\\auto_debug_PokePomodoro_top.handwer.homeworktasklist_30086000593547374.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\26387\\.ohos\\config\\auto_debug_PokePomodoro_top.handwer.homeworktasklist_30086000593547374.p12"
+        }
+      },
+      {
+        "name": "poke",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\26387\\.ohos\\config\\auto_debug_PokePomodoro_top.handwer.homeworktasklist_30086000593547374.cer",
+          "storePassword": "0000001908FE3816324DFFD790082F2F3E085D17AEB48A80D12BFF8498231087360C2EE2928DB0EC46",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001903C8353E34C0A29AA727BF1790D68225A6628C66C566A6F37341B937896C07E629A722BE66",
+          "profile": "C:\\Users\\26387\\.ohos\\config\\auto_debug_PokePomodoro_top.handwer.homeworktasklist_30086000593547374.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\26387\\.ohos\\config\\auto_debug_PokePomodoro_top.handwer.homeworktasklist_30086000593547374.p12"
+        }
+      }
+    ],
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default",
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/About",
+    "pages/AddItemDetail",
+    "pages/newsWeb"
+  ]
+}

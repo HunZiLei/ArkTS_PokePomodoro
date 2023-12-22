@@ -1,0 +1,40 @@
+{
+  "string": [
+    {
+      "name": "module_desc",
+      "value": "模块描述"
+    },
+    {
+      "name": "EntryAbility_desc",
+      "value": "description"
+    },
+    {
+      "name": "EntryAbility_label",
+      "value": "口袋清单"
+    },
+    {
+      "name": "title",
+      "value": "清单"
+    },
+    {
+      "name": "tabbot_tasks",
+      "value": "清单"
+    },
+    {
+      "name": "AddItemDetail_hint_task_name",
+      "value": "任务名称"
+    },
+    {
+      "name": "TabBottom_Settings",
+      "value": "设置"
+    },
+    {
+      "name": "tab_title_ddl_state",
+      "value": "截止时间"
+    },
+    {
+      "name": "tab_title_pomodoro",
+      "value": "番茄钟"
+    }
+  ]
+}
